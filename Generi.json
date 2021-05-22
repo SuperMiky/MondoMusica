@@ -1,10 +1,13 @@
 [
-	"Rock":
-	{
-	"nome": "Rock",
-	"descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
-	"immagine": "Rock.jpg",
-	"imgBand": "RockBand.jpg",
-	"imgAlbum": "RockAlbum.jpg",
-	},
+    {
+        "Rock": [
+            {
+                "nome": "Rock",
+		"descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
+		"immagine": "Rock.jpg",
+		"imgBand": "RockBand.jpg",
+		"imgAlbum": "RockAlbum.jpg",
+            }
+        ]
+    }
 ]
