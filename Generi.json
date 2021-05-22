@@ -1,65 +1,10 @@
 [
- {
-  "nome": "Rock",
-  "descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
-  "immagine": "Rock.jpg",
-  "imgBand": "RockBand.jpg",
-  "imgAlbum": "RockAlbum.jpg",
-  "imgSingoli": "RockSingoli.jpg"
- },
- {
-  "nome": "Blues",
-  "descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
-  "immagine": "Blues.jpg"
- },
- {
-  "nome": "Metal",
-  "descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
-  "immagine": "Metal.jpg"
- },
- {
-  "nome": "Jazz",
-  "descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
-  "immagine": "Jazz.jpg"
- },
- {
-  "nome": "Raggae",
-  "descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
-  "immagine": "Raggae.jpg"
- },
- {
-  "nome": "Country",
-  "descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
-  "immagine": "Country.jpg"
- },
- {
-  "nome": "Hip-Hop",
-  "descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
-  "immagine": "Hip-Hop.jpg"
- },
- {
-  "nome": "Rap",
-  "descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
-  "immagine": "Rap.jpg"
- },
- {
-  "nome": "Trap",
-  "descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
-  "immagine": "Trap.jpg"
- },
- {
-  "nome": "Funky",
-  "descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
-  "immagine": "Funky.jpg"
- },
- {
-  "nome": "Elettronica",
-  "descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
-  "immagine": "Elettronica.jpg"
- },
- {
-  "nome": "Pop",
-  "descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
-  "immagine": "Pop.jpg"
- }
+	"Rock":
+	{
+	"nome": "Rock",
+	"descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
+	"immagine": "Rock.jpg",
+	"imgBand": "RockBand.jpg",
+	"imgAlbum": "RockAlbum.jpg",
+	},
 ]
