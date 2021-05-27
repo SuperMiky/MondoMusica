@@ -3,60 +3,96 @@
 		"nome": "Rock",
 		"descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
 		"immagine": "Rock.jpg"
+		"imgBand": "RockBand.jpg"
+		"imgAlbum": "RockAlbum.jpg"
+		"imgSingoli": "RockSingoli.jpg"
 	},
 	{
 		"nome": "Blues",
 		"descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
 		"immagine": "Blues.jpg"
+		"imgBand": "BluesBand.jpg"
+		"imgAlbum": "BluesAlbum.jpg"
+		"imgSingoli": "BluesSingoli.jpg"
 	},
 	{
 		"nome": "Metal",
 		"descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
 		"immagine": "Metal.jpg"
+		"imgBand": "MetalBand.jpg"
+		"imgAlbum": "MetalAlbum.jpg"
+		"imgSingoli": "MetalSingoli.jpg"
 	},
 	{
 		"nome": "Jazz",
 		"descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
 		"immagine": "Jazz.jpg"
+		"imgBand": "JazzBand.jpg"
+		"imgAlbum": "JazzAlbum.jpg"
+		"imgSingoli": "JazzSingoli.jpg"
 	},
 	{
 		"nome": "Raggae",
 		"descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
 		"immagine": "Raggae.jpg"
+		"imgBand": "RaggaeBand.jpg"
+		"imgAlbum": "RaggaeAlbum.jpg"
+		"imgSingoli": "RaggaeSingoli.jpg"
 	},
 	{
 		"nome": "Country",
 		"descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
 		"immagine": "Country.jpg"
+		"imgBand": "CountryBand.jpg"
+		"imgAlbum": "CountryAlbum.jpg"
+		"imgSingoli": "CountrySingoli.jpg"
 	},
 	{
 		"nome": "Hip-Hop",
 		"descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
 		"immagine": "Hip-Hop.jpg"
+		"imgBand": "Hip-HopBand.jpg"
+		"imgAlbum": "Hip-HopAlbum.jpg"
+		"imgSingoli": "Hip-HopSingoli.jpg"
 	},
 	{
 		"nome": "Rap",
 		"descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
 		"immagine": "Rap.jpg"
+		"imgBand": "RapBand.jpg"
+		"imgAlbum": "RapAlbum.jpg"
+		"imgSingoli": "RapSingoli.jpg"
 	},
 	{
 		"nome": "Trap",
 		"descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
 		"immagine": "Trap.jpg"
+		"imgBand": "TrapBand.jpg"
+		"imgAlbum": "TrapAlbum.jpg"
+		"imgSingoli": "TrapSingoli.jpg"
 	},
 	{
 		"nome": "Funky",
 		"descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
 		"immagine": "Funky.jpg"
+		"imgBand": "FunkyBand.jpg"
+		"imgAlbum": "FunkyAlbum.jpg"
+		"imgSingoli": "FunkykSingoli.jpg"
 	},
 	{
 		"nome": "Elettronica",
 		"descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
 		"immagine": "Elettronica.jpg"
+		"imgBand": "ElettronicakBand.jpg"
+		"imgAlbum": "ElettronicaAlbum.jpg"
+		"imgSingoli": "ElettronicaSingoli.jpg"
 	},
 	{
 		"nome": "Pop",
 		"descrizione": "Some representative placeholder content for the three columns of text below the carousel. This is the first column.",
 		"immagine": "Pop.jpg"
+		"imgBand": "PopBand.jpg"
+		"imgAlbum": "PopAlbum.jpg"
+		"imgSingoli": "PopSingoli.jpg"
 	}
 ]
